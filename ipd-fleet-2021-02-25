@@ -8,6 +8,14 @@
    "userIcon": ""
  },
  {
+   "name": "Booster",
+   "comment": "",
+   "allyCode": 274298234,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
+ {
    "name": "C’Ma",
    "comment": "",
    "allyCode": 379889878,
@@ -176,6 +184,14 @@
    "userIcon": ""
  },
  {
+   "name": "願榮光歸香港",
+   "comment": "",
+   "allyCode": 971421582,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
    "name": "Константиныч",
    "comment": "",
    "allyCode": 886412855,
@@ -200,17 +216,17 @@
    "userIcon": ":dart:"
  },
  {
-   "name": "Booster",
+   "name": "Boss Albert 2",
    "comment": "",
-   "allyCode": 274298234,
+   "allyCode": 296719986,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
  {
-   "name": "Boss Albert 2",
+   "name": "DarthDrek",
    "comment": "",
-   "allyCode": 296719986,
+   "allyCode": 439857982,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
