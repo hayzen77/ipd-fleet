@@ -39,6 +39,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "Eriksson",
+   "comment": "",
+   "allyCode": 584524551,
+   "tagIdOnDrop": "339450529963048971",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "FoxDieV",
    "comment": "",
@@ -251,14 +259,6 @@
    "name": "Ehhdward",
    "comment": "",
    "allyCode": 939282781,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "Eriksson",
-   "comment": "",
-   "allyCode": 584524551,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
