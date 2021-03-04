@@ -279,6 +279,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "DeadlyCrate",
+   "comment": "",
+   "allyCode": 516593235,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Ehhdward",
    "comment": "",
