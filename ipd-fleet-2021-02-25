@@ -71,6 +71,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "Jay Beorn",
+   "comment": "",
+   "allyCode": 587653887,
+   "tagIdOnDrop": "259063215609085953",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Lamiwar",
    "comment": "",
@@ -283,14 +291,6 @@
    "name": "Ihar80",
    "comment": "",
    "allyCode": 743348688,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "Jay Beorn",
-   "comment": "",
-   "allyCode": 587653887,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
