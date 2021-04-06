@@ -72,6 +72,14 @@
    "userIcon": ""
  },
  {
+   "name": "IøT Jazz Hands",
+   "comment": "",
+   "allyCode": 632917655,
+   "tagIdOnDrop": "396735536074588172",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
+ {
    "name": "Jay Beorn",
    "comment": "",
    "allyCode": 587653887,
@@ -307,14 +315,6 @@
    "name": "Foxa",
    "comment": "",
    "allyCode": 584942565,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "IøT Jazz Hands",
-   "comment": "",
-   "allyCode": 632917655,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
