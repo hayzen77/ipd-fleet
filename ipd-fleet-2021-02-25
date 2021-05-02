@@ -263,6 +263,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart::dart:"
  },
+  {
+   "name": "Crevang",
+   "comment": "",
+   "allyCode": 453288837,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Dart Brrright",
    "comment": "",
@@ -326,6 +334,14 @@
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart::dart:"
+ },
+  {
+   "name": "Gin",
+   "comment": "",
+   "allyCode": 862782936,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
  },
  {
    "name": "Ihar80",
