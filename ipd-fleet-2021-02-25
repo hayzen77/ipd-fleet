@@ -56,6 +56,14 @@
    "userIcon": ""
  },
   {
+   "name": "Ehhdward",
+   "comment": "",
+   "allyCode": 939282781,
+   "tagIdOnDrop": "345890647992958986",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
+  {
    "name": "Eriksson",
    "comment": "",
    "allyCode": 584524551,
@@ -315,14 +323,6 @@
    "name": "DeadlyCrate",
    "comment": "",
    "allyCode": 516593235,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "Ehhdward",
-   "comment": "",
-   "allyCode": 939282781,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
