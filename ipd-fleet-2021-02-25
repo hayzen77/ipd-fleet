@@ -23,6 +23,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+   {
+   "name": "C'ma",
+   "comment": "",
+   "allyCode": 379889878,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "CroixOrange",
    "comment": "",
@@ -267,14 +275,6 @@
    "name": "Boss Albert 2",
    "comment": "",
    "allyCode": 296719986,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart::dart:"
- },
-   {
-   "name": "C'ma",
-   "comment": "",
-   "allyCode": 379889878,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart::dart:"
