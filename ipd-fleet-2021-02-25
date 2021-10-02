@@ -63,6 +63,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "Foxa",
+   "comment": "",
+   "allyCode": 584942565,
+   "tagIdOnDrop": "544264420713300020",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "FoxDieV",
    "comment": "",
@@ -339,14 +347,6 @@
    "name": "EuHong",
    "comment": "",
    "allyCode": 995232349,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart::dart:"
- },
- {
-   "name": "Foxa",
-   "comment": "",
-   "allyCode": 584942565,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart::dart:"
