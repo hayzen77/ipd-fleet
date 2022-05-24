@@ -271,6 +271,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "Beneplayer",
+   "comment": "",
+   "allyCode": 414844928,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "BerThad",
    "comment": "",
@@ -435,6 +443,14 @@
    "name": "Volcanico",
    "comment": "",
    "allyCode": 348987811,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Xerebro",
+   "comment": "",
+   "allyCode": 595373398,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
