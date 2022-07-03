@@ -160,6 +160,14 @@
    "userIcon": ""
  },
  {
+   "name": "Ridzuanakin",
+   "comment": "",
+   "allyCode": 845336495,
+   "tagIdOnDrop": "329882739547308034",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
+ {
    "name": "rj1598",
    "comment": "",
    "allyCode": 891633843,
@@ -414,14 +422,6 @@
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart::dart::dart:"
- },
- {
-   "name": "Ridzuanakin",
-   "comment": "",
-   "allyCode": 845336495,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart::dart:"
  },
  {
    "name": "Samurai",
