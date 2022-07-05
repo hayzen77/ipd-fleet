@@ -48,14 +48,6 @@
    "userIcon": ""
  },
   {
-   "name": "Ehhdward",
-   "comment": "",
-   "allyCode": 939282781,
-   "tagIdOnDrop": "345890647992958986",
-   "tagIdOnClimb": "",
-   "userIcon": ""
- },
-  {
    "name": "Eriksson",
    "comment": "",
    "allyCode": 584524551,
@@ -91,7 +83,7 @@
    "name": "IøT Jazz Hands",
    "comment": "",
    "allyCode": 632917655,
-   "tagIdOnDrop": "396735536074588172",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ""
  },
@@ -148,6 +140,14 @@
    "comment": "",
    "allyCode": 461557744,
    "tagIdOnDrop": "344610796220710913",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
+   {
+   "name": "Reddiez (Ehhdward)",
+   "comment": "",
+   "allyCode": 939282781,
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ""
  },
